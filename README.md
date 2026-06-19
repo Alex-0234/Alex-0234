@@ -1,16 +1,34 @@
-## Hi there 👋
-
-<!--
-**Alex-0234/Alex-0234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+╭─────────────────────────────────────────────────────────────────╮
+│  ...  USER TERMINAL // ALEX-0234                                │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  NAME:        Alex Liška                                        │
+│  ROLE:        Fullstack Developer                               │
+│  PHILOSOPHY:  Automation is key; deleting boilerplate is a      │
+│               waste of time. Passionate about modern web        │
+│               design and building clean, high-performance       │
+│               user interfaces.                                  │        
+│                                                                 │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  CURRENT ACTIVE STACK                                           │
+│  • Frontend:  React (JS/TS), Vanilla JS                         │
+│  • Backend:   Express.js, Node.js                               │
+│  • Libraries:  Lenis, GSAP                                      │
+│                                                                 │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  TECH STACK & UTILITIES                                         │
+│  • Languages:  JavaScript (ES6+),                               │
+│  • Dev Tools:  Lazy-init, npm, Git/GitHub,                      │
+│  • Styling:   CSS3, Tailwind CSS                                │
+│                                                                 │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  ROADMAP PROJECTS                                               │
+│  • create-lazy-init (Ultra-lean project scaffolding tool)       │
+│  • cali-ascension (GENESIS) A gamified calisthenics tracker     │
+│                                                                 │
+╰─────────────────────────────────────────────────────────────────╯
+```
