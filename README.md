@@ -27,11 +27,11 @@
       <br><br>
         <pre style="width: 100%; box-sizing: border-box; text-align: center;"><h3>MY STATS: </h3>
         <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=Alex-0234&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Alex-0234's Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Alex-0234&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
         <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-0234&theme=tokyonight&hide_border=false" alt="Alex-0234's Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-0234&theme=tokyonight&hide_border=true" />
         <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-0234&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Alex-0234's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-0234&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
         <br><br>
         </pre>
       </td>
