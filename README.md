@@ -21,6 +21,8 @@
                 'HTML',
                 'CSS',
                 'JavaScript',
+                'React',
+                'MongoDB',
             ],
             special_skills: [
                 'TailwindCSS',
