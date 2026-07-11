@@ -14,9 +14,18 @@
             },  
             currently_learning: [
                 'TypeScript',
+                'Next.js',
+                'Three',  //on hold
+            ],
+            default_skills: [
+                'HTML',
+                'CSS',
+                'JavaScript',
+            ],
+            special_skills: [
+                'TailwindCSS',
                 'Lenis',
                 'GSAP',
-                'Three',
             ],
             interests: [
                 'Web Development',
