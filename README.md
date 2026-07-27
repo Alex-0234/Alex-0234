@@ -15,7 +15,8 @@
             currently_learning: [
                 'TypeScript',
                 'Next.js',
-                'Three',  //on hold
+                'PostgreSQL',
+                'Three', 
             ],
             default_skills: [
                 'HTML',
