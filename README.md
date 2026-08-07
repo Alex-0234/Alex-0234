@@ -37,7 +37,7 @@
             ],
             current_projects: [
                 'create-lazy-init', // The ultra-lean, zero-fluff project scaffolding tool.
-                'cali-ascension' // Calisthenics gamified tracker.  Currently under redesign...
+                'cali-ascension' // Calisthenics gamified tracker. 
             ],
         }
 ```
