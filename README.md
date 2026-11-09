@@ -2,7 +2,7 @@
 ```javascript
         const profile = {
             name: 'Alex Liška',
-            role: 'Fullstack Developer',
+            role: 'Frontend Developer',
             located_in: 'Czech Republic',
             stacks: {
                 "MERN": [
@@ -13,20 +13,20 @@
                 ];
             },  
             currently_learning: [
-                'TypeScript',
                 'Next.js',
-                'PostgreSQL',
+                'SQLite,
                 'Three', 
             ],
             default_skills: [
                 'HTML',
                 'CSS',
+                'TailwindCSS',
                 'JavaScript',
+                'TypeScript',
                 'React',
                 'MongoDB',
             ],
-            special_skills: [
-                'TailwindCSS',
+            extra_skills: [
                 'Lenis',
                 'GSAP',
             ],
@@ -36,8 +36,7 @@
                 'Modern Libraries',
             ],
             current_projects: [
-                'create-lazy-init', // The ultra-lean, zero-fluff project scaffolding tool.
-                'cali-ascension' // Calisthenics gamified tracker. 
+                "Daymark"
             ],
         }
 ```
