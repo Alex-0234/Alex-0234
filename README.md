@@ -14,7 +14,7 @@
             },  
             currently_learning: [
                 'Next.js',
-                'SQLite,
+                'SQLite',
                 'Three', 
             ],
             default_skills: [
